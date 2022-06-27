@@ -1,0 +1,1 @@
+characters = ['Luffy', 'Sanji', 'Zorro']
